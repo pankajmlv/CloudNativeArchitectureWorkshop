@@ -1,6 +1,6 @@
-# CloudNativeArchitectureWorkshop
+# Cloud Native Architecture Workshop
 
-**Day 1**
+## Day 1
 
 Cloud Native Philosophy & Architectures - Theory 
 - Why build Cloud Native Applications?
@@ -16,7 +16,7 @@ Introduction to Cloud Foundry & GAIA
 - Blue-Green styled deployment
 - What can go wrong during deployments?
 
-**Day 2**
+## Day 2
 
 Spring Boot Primer
 - Spring Boot Basics
