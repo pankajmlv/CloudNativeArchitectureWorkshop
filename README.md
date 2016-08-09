@@ -8,7 +8,7 @@ Cloud Native Philosophy & Architectures - Theory
 - Legacy to Cloud Native - Cloud Native maturity model
 - App Migration basics
 
-Introduction to Cloud Foundry & GAIA
+Introduction to Cloud Foundry
 - Deploying and Scaling applications on CF
 - Connecting applications to backend services & Spring Cloud Connectors
 - Buildpacks Overview
